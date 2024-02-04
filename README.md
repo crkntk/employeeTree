@@ -14,3 +14,10 @@ to build an org chart.
 b. Read another file containing employee ID paths, and for each employee ID path
 read, count, and print the number of employees starting from it in the org
 chart.
+
+
+To compile code, simply type make at the prompt. For the C++ version, make
+will execute compilation similar to the following if you do not have any errors:
+g++ -std=c++11 -Wall -g3 -c orgchart.cpp
+g++ -std=c++11 -Wall -g3 -c countOrgEmployees.cpp
+g++ -o countEmployees orgchart.o countOrgEmployees.o
