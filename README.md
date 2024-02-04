@@ -1,4 +1,4 @@
-# employeeTree
+# Employee Tree
 Suppose your company is establishing a new engineering organization, and you are asked to
 implement a tree data structure to store and retrieve the organization chart information, as
 well as write code for testing your implementation.
