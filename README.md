@@ -1,6 +1,5 @@
 # Employee Tree
-Suppose your company is establishing a new engineering organization, and you are asked to
-implement a tree data structure to store and retrieve the organization chart information, as
+Implemented a tree data structure to store and retrieve the organization chart information, as
 well as write code for testing your implementation.
 1) Tree operations:
 a. Add employees identified along an employee ID path to the organization chart,
